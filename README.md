@@ -1,4 +1,4 @@
-# PowerBi_Project-Sales-Analysis-of-the-ElectroHub
+# PowerBi_Project-Sales-Analysis-of-the-ElectroHub-----------------Insights from the Analysis
 
 1.Sales Trend Over Period-
 The sales have shown fluctuations from 2020 to 2024, with peaks in 2022 and 2023 reaching around 0.65M. There is a slight dip towards the end of the period.
